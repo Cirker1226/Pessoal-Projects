@@ -20,3 +20,8 @@ Os arquivos e pastas presentes aqui representam projetos e atividades independen
 ## 🔄 Atualizações
 
 Este repositório será atualizado conforme novas atividades forem concluídas ou novos temas forem explorados.
+
+## 📫 Contato
+
+- GitHub: [@Cirker1226](https://github.com/Cirker1226)
+- Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
