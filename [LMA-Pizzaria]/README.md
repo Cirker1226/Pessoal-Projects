@@ -38,6 +38,11 @@ O sistema possui **3 versões**, que foram feitas com o decorrer do aprendizado:
 
 Este projeto é de uso livre e não possui licença formal. Sinta-se à vontade para estudar, modificar e compartilhar.
 
+## 📫 Contato
+
+- GitHub: [@Cirker1226](https://github.com/Cirker1226)
+- Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
+
 ---
 
 > Desenvolvido por Matheus Henrique com o objetivo de aprendizado.
