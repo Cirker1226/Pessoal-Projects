@@ -1,11 +1,11 @@
 
 # 🍕 Pizzaria LMA - Cardápio Interativo (Python CLI)
 
-Este é um projeto pessoal simples feito em **Python**, que simula o cardápio de uma pizzaria fictícia chamada **Pizzaria LMA**. O foco está no desenvolvimento de lógica em linha de comando (CLI), com menus interativos e cálculo de pedidos.
+Este é um projeto pessoal simples feito em **Python**, que simula o cardápio de uma pizzaria fictícia chamada **Pizzaria LMA**. O foco está no desenvolvimento de lógica em linha de comando, com menus interativos e cálculo de pedidos.
 
 ## 🔧 Funcionalidades
 
-O sistema possui **3 versões**, que evoluem progressivamente em termos de interatividade e estrutura de código:
+O sistema possui **3 versões**, que foram feitas com o decorrer do aprendizado:
 
 ### `lma00.py`
 - Exibe o cardápio da pizzaria com sabores, tamanhos e refrigerantes.
@@ -22,28 +22,10 @@ O sistema possui **3 versões**, que evoluem progressivamente em termos de inter
 - Melhor separação de etapas no processo do pedido.
 
 ### `lma02.py`
-- Versão mais completa:
-  - Permite ao usuário fazer **vários pedidos de pizza** na mesma execução.
-  - Cada pedido é armazenado em uma lista de dicionários.
-  - O resumo final mostra todos os pedidos e o **total acumulado**.
-  - Código mais modular e escalável.
-
-## 🧠 Tecnologias Utilizadas
-
-- Linguagem: [Python 3](https://www.python.org/)
-- Execução via terminal (sem interface gráfica)
-
-## 📦 Como Executar
-
-1. Certifique-se de ter o Python instalado na sua máquina.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-3. Acesse a pasta do projeto e execute o arquivo desejado:
-   ```bash
-   python lma00.py
-   ```
+- Permite ao usuário fazer **vários pedidos de pizza** na mesma execução.
+- Cada pedido é armazenado em uma lista de dicionários.
+- O resumo final mostra todos os pedidos e o **total acumulado**.
+- Código mais modular e escalável.
 
 ## 💡 Objetivos do Projeto
 
@@ -58,4 +40,4 @@ Este projeto é de uso livre e não possui licença formal. Sinta-se à vontade 
 
 ---
 
-> Projeto desenvolvido por [Seu Nome] como prática pessoal.
+> Desenvolvido por Matheus Henrique com o objetivo de aprendizado.
